@@ -12,7 +12,7 @@ To install and use, it is necessary to have Python or its latest version.
 * Make sure the default location for the CLI is whichever folder you placed your weather.py file
   a) E.G. If you placed your file in the suggested location, ensure that default is set to: C:\Users\[Username]\Documents
   b) If it is not, you may change the default location simply by using cd c:\[filepath], or in the above example: cd C:\Users\[Username]\Documents
-* Run the program by typing: py weather.py
+* Run the program by typing: ```py weather.py```
   a) The program will ask for a city, feel free to type the full name of any city.
    - In my example I'll use: Sacramento
   b) In the case of multiple cities of the same name, the app will create a list and allow you to choose which city you want to see. In my example I return:
